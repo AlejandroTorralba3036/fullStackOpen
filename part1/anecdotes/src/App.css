@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  /* border: 1px solid #ccc; */
+  padding: 2em;
+}
+.card-text {
+  /* border: 1px solid green; */
+  min-height: 120px;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+.card-actions{
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
